@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello there ! 
+My name is Sweta Kumari. I am a full time Masters student at Stony Brook University.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sweta.kumari@stonybrook.edu](mailto:sweta.kumari@stonybrook.edu)

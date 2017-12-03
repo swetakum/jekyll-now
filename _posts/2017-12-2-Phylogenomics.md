@@ -30,3 +30,6 @@ Three methods to solve as below
 
 **Find**: A tree topology and labeling for each internal node that
 minimizes the overall cost (over all trees and internal states)
+
+#### Parsimony
+Parsimony approach to phylogenetic tree construction is to find a tree, that has least mutations.

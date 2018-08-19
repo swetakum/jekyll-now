@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 Hello there ! 
-My name is Sweta Kumari. I am a full time Masters student at Stony Brook University.
+https://swetakumari.com/#about
 
 ### Contact me
 
-[sweta.kumari@stonybrook.edu](mailto:sweta.kumari@stonybrook.edu)
+[swkumari@cs.stonybrook.edu](mailto:swkumari@cs.stonybrook.edu)
